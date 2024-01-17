@@ -51,7 +51,7 @@ class DefaultFirebaseOptions {
 
   static const FirebaseOptions android = FirebaseOptions(
     apiKey: 'AIzaSyAwZ1kwJBNrgKrd5q514EByAaO-ZPSyyK8',
-    appId: '1:770124833471:android:ca37eec4e2c6c1b0285c0a',
+    appId: '1:770124833471:android:c5df075083345e09285c0a',
     messagingSenderId: '770124833471',
     projectId: 'followup-5d408',
     storageBucket: 'followup-5d408.appspot.com',
@@ -59,11 +59,10 @@ class DefaultFirebaseOptions {
 
   static const FirebaseOptions ios = FirebaseOptions(
     apiKey: 'AIzaSyDtMaBsZEfcT_ZyZ77xHQZ_VNnKBgzOsC4',
-    appId: '1:770124833471:ios:272936e861c816d2285c0a',
+    appId: '1:770124833471:ios:3e5e7fc421e0ad52285c0a',
     messagingSenderId: '770124833471',
     projectId: 'followup-5d408',
     storageBucket: 'followup-5d408.appspot.com',
-    iosClientId: '770124833471-g0lmrjiip1ruhuj1bgpaasfe138420es.apps.googleusercontent.com',
-    iosBundleId: 'com.followup',
+    iosBundleId: 'com.followup.app',
   );
 }

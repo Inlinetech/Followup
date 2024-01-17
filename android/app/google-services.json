@@ -1,40 +1,76 @@
 {
   "project_info": {
-    "project_number": "109149158366",
-    "project_id": "inquiryapp-57cb5",
-    "storage_bucket": "inquiryapp-57cb5.appspot.com"
+    "project_number": "770124833471",
+    "project_id": "followup-5d408",
+    "storage_bucket": "followup-5d408.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:109149158366:android:4fa25d6648b71ef3bcbb4f",
+        "mobilesdk_app_id": "1:770124833471:android:ca37eec4e2c6c1b0285c0a",
         "android_client_info": {
           "package_name": "com.followup"
         }
       },
       "oauth_client": [
         {
-          "client_id": "109149158366-gmu7nvdqj110lacpnupo7aile81idmc7.apps.googleusercontent.com",
+          "client_id": "770124833471-l1hkhdoknuvrm02dgj54c9lmnipfo6gc.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyBku0cZ-B9tvI2tmzyY9UetZIshusZh1hQ"
+          "current_key": "AIzaSyAwZ1kwJBNrgKrd5q514EByAaO-ZPSyyK8"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "109149158366-gmu7nvdqj110lacpnupo7aile81idmc7.apps.googleusercontent.com",
+              "client_id": "770124833471-l1hkhdoknuvrm02dgj54c9lmnipfo6gc.apps.googleusercontent.com",
               "client_type": 3
             },
             {
-              "client_id": "109149158366-05uqnffh15rnghr2dthqe7hhi8q0cljn.apps.googleusercontent.com",
+              "client_id": "770124833471-g0lmrjiip1ruhuj1bgpaasfe138420es.apps.googleusercontent.com",
               "client_type": 2,
               "ios_info": {
-                "bundle_id": "com.example.inquiryapp"
+                "bundle_id": "com.followup"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:770124833471:android:c5df075083345e09285c0a",
+        "android_client_info": {
+          "package_name": "com.followup.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "770124833471-l1hkhdoknuvrm02dgj54c9lmnipfo6gc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwZ1kwJBNrgKrd5q514EByAaO-ZPSyyK8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "770124833471-l1hkhdoknuvrm02dgj54c9lmnipfo6gc.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "770124833471-g0lmrjiip1ruhuj1bgpaasfe138420es.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.followup"
               }
             }
           ]
