@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 22 22">
+  <g id="notification-new" transform="translate(0.469 0.469)">
+    <path id="Path_42" data-name="Path 42" d="M18.138,11.926V10.215H16.821v1.975a.6.6,0,0,0,.2.461L18.8,14.427V15.48H4.316V14.427L6.093,12.65a.6.6,0,0,0,.2-.461V8.9a5.266,5.266,0,0,1,5.266-5.266,5.192,5.192,0,0,1,2.632.717V2.843a6.391,6.391,0,0,0-1.975-.527V1H10.9V2.316A6.681,6.681,0,0,0,4.974,8.9v3.028L3.2,13.7a.6.6,0,0,0-.2.461v1.975a.619.619,0,0,0,.658.658H8.265a3.291,3.291,0,0,0,6.582,0h4.607a.619.619,0,0,0,.658-.658V14.164a.6.6,0,0,0-.2-.461Zm-6.582,6.845A1.975,1.975,0,0,1,9.581,16.8H13.53a1.975,1.975,0,0,1-1.975,1.975Z" transform="translate(-1.025 -0.342)"/>
+    <circle id="Ellipse_14" data-name="Ellipse 14" cx="2.5" cy="2.5" r="2.5" transform="translate(14.531 2.531)" fill="#22f"/>
+    <rect id="_Transparent_Rectangle_" data-name="&lt;Transparent Rectangle&gt;" width="22" height="22" transform="translate(-0.469 -0.469)" fill="none"/>
+  </g>
+</svg>
