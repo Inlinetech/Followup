@@ -9,7 +9,7 @@
 	<key>PLIST_VERSION</key>
 	<string>1</string>
 	<key>BUNDLE_ID</key>
-	<string>com.followup.app</string>
+	<string>com.followup.leadapp</string>
 	<key>PROJECT_ID</key>
 	<string>inquiryapp-57cb5</string>
 	<key>STORAGE_BUCKET</key>
@@ -25,6 +25,6 @@
 	<key>IS_SIGNIN_ENABLED</key>
 	<true></true>
 	<key>GOOGLE_APP_ID</key>
-	<string>1:109149158366:ios:ac99106219cd5929bcbb4f</string>
+	<string>1:109149158366:ios:b4443c1c2ea7f845bcbb4f</string>
 </dict>
 </plist>
